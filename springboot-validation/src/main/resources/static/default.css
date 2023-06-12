@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+table {
+	width: 100%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+#container {
+	width: 650px;
+	margin: auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.field-error {
+	color: red;
+}
